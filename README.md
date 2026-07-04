@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # LLM Application Security Testing
 
 A hands-on project testing prompt injection and jailbreak defenses in an LLM-based application, built to explore practical AI/LLM security concepts aligned with the OWASP Top 10 for LLM Applications.
@@ -29,4 +28,3 @@ As organizations adopt LLM-powered applications and AI agents, traditional secur
 ## Tech Stack
 
 Python · Anthropic API · Regex-based input filtering
-EOF
